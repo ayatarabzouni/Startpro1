@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "startpro_zahra",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/adminlist.dart"
+        },
+        {
+            "name": "startpro_zahra (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/adminlist.dart"
+        },
+        {
+            "name": "startpro_zahra (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/adminlist.dart"
+        }
+    ]
+}
